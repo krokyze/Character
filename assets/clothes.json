@@ -1,0 +1,31 @@
+[
+    [
+        "assets/pants_1.png",
+        "assets/pants_2.png",
+        "assets/pants_3.png",
+        "assets/pants_4.png"
+    ],
+    [
+        "assets/hat_1.png",
+        "assets/hat_2.png",
+        "assets/hat_3.png",
+        "assets/hat_4.png",
+        "assets/hat_5.png",
+        "assets/hat_6.png"
+    ],
+    [
+        "assets/body_1.png",
+        "assets/body_2.png",
+        "assets/body_3.png",
+        "assets/body_4.png",
+        "assets/body_5.png",
+        "assets/body_6.png"
+    ],
+    [
+        "assets/shoes_1.png",
+        "assets/shoes_2.png",
+        "assets/shoes_3.png",
+        "assets/shoes_4.png",
+        "assets/shoes_5.png"
+    ]
+]
